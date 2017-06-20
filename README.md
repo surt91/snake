@@ -1,9 +1,14 @@
 # snake
-A ncurses based Snake clone
+
+A ncurses based Snake clone.
+
+![example](images/example.png)
 
 ## Dependecies
-ncurses
+
+`ncurses`
 
 ## Build
+
 1. `make`
 2. `./snake`
