@@ -1,0 +1,13 @@
+language: c
+script:
+  - make
+
+compiler:
+  - gcc
+
+dist: trusty
+
+addons:
+  apt:
+    packages:
+      - ncurses-dev
